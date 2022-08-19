@@ -1,0 +1,28 @@
+### Anotações durante a aula ###
+
+Por que aprender arquitetura de software?
+  - Poder navegar da visão macro, para a visão micro de um ou mais softwares
+    - Olhar para o código e identificar relações, etc
+
+  - Entender quais são as diversas opções que temos para desenvolver a mesma coisa e escolher a melhor solução para o contexto
+    - Quais as formas arquiteturais, como os componentes se relacionam, orientação a objetos, etc
+
+  - Pensar a longo prazo no projeto e sua sustentabilidade
+    - Prazo, pressão lhe "obrigam" a resolver o problema a curto prazo. Mas com a arquitetura de software, pelo menos você consegue modelar um software, que quando necessário, ele vai ser mais fácil de ser mantido/refatorado.
+
+  - Tomar decisões de forma mais fria e calculada evitando assim ser influienciado por "hypes" de mercado
+    - "Hoje sou front em React, amanhã em Angular, depois vou migrar pro Flutter", isso pode prejudicar o produto da empresa.
+
+  - Mergulho em padrões de projeto e de desenvolvimento e suas boas práticas
+  
+  - Ter mais clareza do impacto que o software possui na organização como um todo
+    - Ver o impacto do seu trabalho
+
+  - Tomar decisões com mais confiança
+    - A visão macro, te passa mais confiança para tomar decisões
+    - As opções de trabalho(modelos arquiteturais, etc) irão servir de ferramentas para solucionar problemas
+  
+### Anotações pós aula ###
+
+
+  

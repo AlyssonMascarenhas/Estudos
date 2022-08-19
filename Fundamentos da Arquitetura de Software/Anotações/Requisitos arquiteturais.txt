@@ -1,0 +1,22 @@
+### Anotações durante a aula ###
+
+Requisitos arquiteturais(RAs):
+  - Perfomance
+  
+  - Armazenamento de dados
+
+  - Escalabilidade
+
+  - Segurança
+
+  - Legal
+    - Cumprir legislação(LGPD, etc)
+
+  - Audit
+    - Parâmetros e formas de auditoria
+
+  - Marketing
+    - Disponibilidade
+    - Verificar tipos de dispositivos
+
+### Anotações pós aula ###

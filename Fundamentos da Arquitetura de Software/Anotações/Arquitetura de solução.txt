@@ -1,0 +1,24 @@
+### Anotações durante a aula ###
+
+Arquitetura de soluções:
+  - Fica entre a área de negócios e técnica 
+
+  - Transformar requisitos de negócio em soluções de software
+
+  - Desenhos arquiteturais da solução de um software para reproduzir como ele irá funcionar
+    - Saber "desenhar", documentar, expor pensamento para solucionar determinado problema
+      - Diagrama C4, UML, BPMN.
+      # O que é Diagrama C4 e BPMN?
+
+    - Analisa os impactos comerciais em relação a uma escolha de tecnológia
+      - Entender o contexto atual do cliente, para escolher a melhor solução para o mesmo
+
+      - Pode participar do processo comercial de pré-venda e venda
+        - Mostrar/gerar detalhes técnicos
+
+      - Analisa os impactos dos custos para o negócio
+        - Metrificar e quantificar os custos para a solução como um todo
+
+### Anotações pós aula ###
+
+

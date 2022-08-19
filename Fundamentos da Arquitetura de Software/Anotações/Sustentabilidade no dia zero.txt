@@ -1,0 +1,18 @@
+### Anotações durante a aula ###
+
+Sustentabilidade no dia zero:
+  - Motivação para pensar em sustentabilidade: Desenvolver software é caro, mas esse software resolve uma "dor" da empresa
+
+  - Software precisa se pagar ao longo do tempo
+    - Como software tem um custo muito caro, é necessário que esse mesmo software "se pague" ao longo do tempo(dê lucro pra empresa)
+    - O software precisa se manter(evoluir)
+      - Custo < Lucro Gerado
+
+  - O software precisa acompanhar a evolução do negócio
+    - Empresa evolui = software escala
+      - Software escala sem probelmas, caso tenha sido bem feito/arquitetado
+
+  - Quanto mais tempo o software ficar no ar, mais retorno gera
+    - Logo, a solução precisa ser bem arquitetada
+  
+### Anotações pós aula ###

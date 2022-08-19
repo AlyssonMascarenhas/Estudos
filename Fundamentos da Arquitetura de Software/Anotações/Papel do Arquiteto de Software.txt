@@ -1,0 +1,45 @@
+### Anotações durante a aula ###
+
+Papel do Arquiteto de Software:
+  - Transformar requisitos de negócio em padrões arquiteturais
+
+  - Orquestrar pessoas desenvolvedoras e experts de domínio
+    - Comunicação, relacionamento interpessoal, etc
+
+    - Entender de forma profunda conceitos e modelos arquiteturais
+      - Mais entendimento de modelos gera mais formas de resolver os problemas
+    # Pesquisar sobre modelos e conceitos arquiteturais
+    
+  - Auxiliar na tomada de decisão nos momentos de crise
+    - Requer conhecimento e responsabilidade nas decisões
+    - Consegue sentar com o time e tem uma visão para ajudar a equipe a resolver determianda crise
+      - Requer conhecimento de modelos arquiteturais e talvez técnico
+
+  - Reforçar boas práticas de desenvolvimento
+    - "Um código mal feito, é um código que um dia vai precisar ser refeito"
+    - Manter o código bem feito
+      - SOLID
+      - Clean Code
+      - Clean Architecture
+      - Commits semânticos
+
+    - Realizar Code Reviews
+      - Garantir a qualidade do código(boas práticas, requisitos arquiteturais, etc)
+
+  - Apesar de nem todas as organizações possuírem o cargo de Arquiteto de Software, normalmente profissionais mais experientes como desenvolvedores seniors e tech leads, acabam realizando esse papel baseado em suas experiencias anteriores.
+
+  # IMPORTANTE, Ver depois: https://arquiteturadesoftware.online/
+
+  - Há empresas que apesar não possuírem o cargo de arquiteto de software, possuem um departamento de arquitetura que auxilia os diversos times da organização com questões arquiteturais.
+    - Suporte aos desenvolvedores voltado
+      - Não mandar, mas consolidar o conhecimento e ajudar os DEVs
+    - Análise, correções, implementação de padrões, etc
+
+### Anotações pós aula ###
+
+  
+
+
+  
+
+

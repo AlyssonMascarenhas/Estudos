@@ -1,0 +1,46 @@
+### Anotações durante a aula ###
+
+Tipos de arquitetura:
+  - Software
+  - Solução
+  - Tecnológica
+  - Corporativa
+
+Arquitetura Tecnológica:
+  - Especialidade em tecnologias específicas de mercado
+    - Ferramentas, tecnologias, etc
+  
+  - Geração de valor baseado em especialidades
+    - Expertise(conhecimento especifico de uma tecnologia, etc)
+
+  - Diversidade de processionais especialistas
+    - Ex -> Arquiteto Elastic, Arquiteto Java
+    - Ou seja, tem conhecimento além do saber(uma referência na área/empresa/etc)
+
+# O que é SAP, Salesforce?
+
+Arquitetura Corporativa:
+  - Impacta estrategicamente a organização como um todo
+    - Políticas, regras, governança, etc
+
+  - Avaliação de custos
+    - Custos com DEVs, verticais de desenvolvimento, licenças, etc
+    # Migrar um projeto para algo novo, vale a pena? Qual custo disso?
+
+  - Avaliação de possíveis novas tecnologias
+    - A implementação de uma nova tecnologia, deve ser alinhada e deve fazer sentido pra empresa
+
+  - Padronização de tecnologias
+    - Geralmente uma empresa de tecnologia, trabalha com algumas linguagens/ferramentas especificas, e tudo isso tem um motivo por trás
+
+  - Planejamento de grandes implantações
+    - Implantar uma tecnologia ou ferramenta, pode impactar de forma geral na empresa.
+    - Sistemas "core"
+    - Migrações
+
+### Anotações pós aula ###
+
+    
+  
+
+

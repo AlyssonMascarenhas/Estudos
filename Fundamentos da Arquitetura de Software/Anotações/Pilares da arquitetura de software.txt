@@ -1,0 +1,15 @@
+### Anotações durante a aula ###
+
+Pilares da arquitetura de software:
+  - São essenciais, sem os mesmos nada acontece:
+    - ESTRUTURAÇÃO
+      - Fácil evolução, componentização para atender os objetivos do negócio
+    - COMPONENTIZAÇÃO
+      - Ajudam a garantir a evolução do software(por partes)
+    - RELACIONAMENTO ENTRE SISTEMAS
+      - Software ter vários "sub-sistemas", e precisam ser bem definidos(Rede, protocolos, regras, ..., solução)
+    - GOVERNANÇA
+      - Padronização, documentação, regras, definições claras, linguagens, protocolos, sistemas utilizados
+
+### Anotações pós aula ###
+  
