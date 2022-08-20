@@ -12,4 +12,26 @@ Pilares da arquitetura de software:
       - Padronização, documentação, regras, definições claras, linguagens, protocolos, sistemas utilizados
 
 ### Anotações pós aula ###
+
+- ESTRUTURAÇÃO:
+  - Organizar o software, para que o mesma seja de fácil escalonabilidade e componentização.
+  - É necessário que o software atenda os objetivos de negócio(alías, ele ta sendo desenvolvido pra isso, mas além disso, deve ter componentes e estruturas claras).
+
+- COMPONENTIZAÇÃO(base na criação de um software):
+  - Um software(solução), pode ser o conjunto de demais softwares(soluções). E lógicamente, esses sitemas irão precisar se comunicar, e pra isso é necessário compreender como componentizar uma solução.
+    - Ou seja, entender como um sistema pode ser relacionar com os outros. ### ESTUDAR SOBRE ECOSSISTEMAS DE SOFTWARE ###
+  - Uma componentização dos processos que opera com eficácia, evita o retrabalho.
+
+- RELACIONAMENTO ENTRE SISTEMAS:
+  - Saber preparar os componentes, para que esses consigam se integrar de forma eficiente em um processo maior.
+  - Sendo neceśsario, observar se os protocolos estão apropriados, se as redes estão sendo usadas de modo necessário e se as regras de segurança estão sendo efetivas.
+
+- GOVERNANÇA:
+  - Não é uma forma de burocratizar o processo de desenvolvimento, é um pilar necesssário para manter a padronização, regras e documentação do sistema.
+  - Importante para que as definições fiquem claras para todos os colaboradores. Além de buscar a garantia que o software continue funcionando independente da equipe.
+  - A governança, dá a segurança que as pessoas que trabalham nesse projeto se tornem dispensáveis(poder substituir o profissional em caso de alguma mudança: seja promoção do mesmo, alteração de projeto, etc. E não do valor da pessoa dentro da corporação).
+
+- ORGANIZAÇÃO:
+  - Organizar um sistema(seja ele qual for, software ou etc), para que possibilite a fácil componentização, evolução e um fluxo rico para atendermos os objetivos de negócio.
+
   

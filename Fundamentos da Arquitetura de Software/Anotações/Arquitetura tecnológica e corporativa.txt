@@ -40,7 +40,20 @@ Arquitetura Corporativa:
 
 ### Anotações pós aula ###
 
+- Arquiteto Tecnológico
+  - Pessoa referencia em uma ferramenta/linguagem/processo de desenvolvimento.
+  - Muito importante dentro de um projeto/organização
     
-  
+- Arquitetura corporativa:
+  - A prática da arquitetura corporativa ajuda na execução da estratégia provendo, exatamente, a “orquestração” que a empresa precisa nas dimensões de negócio, dados, aplicações e tecnologias (incluindo infraestrutura).
+  - Os artefatos produzidos pela arquitetura corporativa conseguem indicar, por exemplo, quais processos de negócio seriam impactados pela atualização de um servidor. Ou ainda, que aplicações são necessárias para o funcionamento de um determinado departamento e quais fontes de dados devem ser preservadas/integradas/atualizadas.
+  ### Estudar sobre o TOGAF(framework que dá referência sólida sobre o que deve ser feito e como deve ser feito)
+
+- SAP = A SAP é um dos líderes mundiais de desenvolvimento de softwares para gerenciamento de processos de negócios, criando soluções que facilitam o processamento efetivo de dados e o fluxo de informações entre as organizações.
+  -  o software da SAP fornece várias funções de negócios com uma única visão da verdade. Isso ajuda as empresas a gerenciar melhor os processos de negócios complexos, dando aos colaboradores de diferentes departamentos acesso fácil a insights em tempo real em toda a empresa. Em consequência, as empresas podem acelerar os workflows, aprimorar a eficiência operacional, aumentar a produtividade e melhorar as experiências dos clientes que se traduzem em maiores lucros.
+
+- Salesforce = A Salesforce é uma empresa de softwares que foca na solução de gerenciamento de relacionamento para aproximar empresas e pessoas. É uma plataforma de CRM integrada que oferece a todos os departamentos uma visão única e compartilhada de cada cliente.
+  ### Estudar sobre mais adiante
+
 
 

@@ -21,4 +21,39 @@ Arquitetura de soluções:
 
 ### Anotações pós aula ###
 
+- A arquitetura da solução é exatamente o que parece. É a criação de uma estrutura que resolverá problemas e traçará um caminho para o sucesso após levar os problemas em consideração. 
+- É um trabalho especializado que envolve muitas análises, investigações internas e externas, pesquisas, estudos e muito mais.
+- A ideia por trás da arquitetura da solução é bastante direta: tenha alguém que seja bom em encontrar problemas e, em seguida, faça com que essa pessoa descubra uma maneira de resolver o problema.
+- Melhor ainda, faça com que ela transforme esse problema em uma vantagem, se for possível.
 
+- Se concentra em:
+  - Como as tecnologias podem ser utilizadas para resolver problemas de negócios
+  - Qual estrutura, plataforma ou pilha técnica pode ser usada para criar uma solução
+  - Como será a aparência do aplicativo, quais módulos o mesmo terá e como eles irão interagir entre si
+  - Descobrir o risco em estruturas / plataformas de terceiros
+  - Encontrar uma solução para um problema de negócios
+
+- Diagrama C4 = Contexto, Containers, Componentes e Código -> um conjunto de diagramas hierárquicos que você podem ser usados para descrever sua arquitetura de software em diferentes níveis de zoom, cada um útil para públicos diferentes
+  - Nivel 1 - Diagrama de contexto do sistema:
+    - O nível 1, um diagrama de contexto do sistema, mostra o sistema de software que você está construindo e como ele se encaixa no mundo em termos das pessoas que o utilizam e dos outros sistemas de software com os quais ele interage
+    - Os clientes do banco usam o sistema bancário na Internet para exibir informações sobre suas contas bancárias e efetuar pagamentos. O sistema bancário na Internet usa o sistema bancário no mainframe existente do banco para fazer isso e usa o sistema de e-mail existente do banco para enviar e-mail aos clientes
+
+  - Nivel 2 - Diagrama de container:
+    - O  nível 2, um diagrama de container, amplia o sistema de software e mostra os containers (aplicativos, armazenamentos de dados, microservices, etc.) que compõem esse sistema de software. As decisões de tecnologia também são uma parte fundamental desse diagrama
+
+  - Nivel 3 - Diagrama de componentes:
+    - O nível 3, um diagrama de componentes, amplia um container individual para mostrar os componentes dentro dele. Esses componentes devem mapear para abstrações reais (por exemplo, um agrupamento de código) em sua base de código
+
+  - Nivel 4 - Diagrama de código:
+    - Finalmente, se você realmente quiser ou precisar, você pode ampliar um componente individual para mostrar como esse componente é implementado
+- Notação = O modelo C4 não prescreve nenhuma notação específica, e o que você vê nesses diagramas apresentados é uma notação simples que funciona bem em quadros brancos, papéis, notas adesivas, cartões de índice e uma variedade de ferramentas de diagramação.
+- Mais informações = O modelo C4 é uma maneira simples de comunicar a arquitetura de um software em diferentes níveis de abstração, para que você possa contar histórias diferentes para diferentes públicos. É também uma maneira de introduzir (muitas vezes, reintroduzir) algum rigor e modelagem leve para as equipes de desenvolvimento de software    
+
+- Diagrama BPMN = O BPMN é uma representação gráfica feita a partir de ícones que simbolizam o fluxo de processo. Ou seja, a partir dessa notação é possível fazer o mapeamento dos processos. Portanto, cada ícone representa uma etapa do processo de produção.
+ - Ou seja, é uma forma de ajudar no mapeamento de processos, utilizando símbolos padronizados em uma representação gráfica.
+ - O BPMN funciona de maneira muito similar a um fluxograma convencional, mas diferente no quesito informacional. Por conta do padrão de símbolos, ele informa de maneira muito mais completa
+ - O BPMN possui muitas semelhanças em relação ao fluxograma convencional, que é uma ferramenta de representação visual e esquemática de processos. Na teoria, até parecem a mesma coisa, mas não são
+    -  fluxogramas são ferramentas bastante simples, que ajudam a mapear um ou mais processos de um negócio
+    - Já o BPMN, apesar de na prática ser realizado da mesma forma que um fluxograma, possui uma sutil diferença: usa seus próprios elementos e símbolos
+      - São regras que tornam o mapa de processos compreensível para um maior número de pessoas, facilitando também seu entendimento dentro de uma organização e de seus setores
+      - Assim, a notação permite que qualquer um crie padrões de processos mais complexos, incluindo exceções, decisões e eventos

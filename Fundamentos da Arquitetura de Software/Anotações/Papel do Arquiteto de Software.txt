@@ -37,6 +37,21 @@ Papel do Arquiteto de Software:
 
 ### Anotações pós aula ###
 
+- ADL(Architecture description language) = é uma linguagem de modelagem específica de domínio para EAM. Linguagens de descrição de arquitetura (ADLs) são qualquer tipo de linguagem de modelagem, que pode ser usada para expressar arquiteturas de sistemas. Isso significa que as ADLs fornecem um conjunto de regras e práticas comuns para a criação de visualizações como, por exemplo, diagramas de fluxo ou organogramas. As visualizações resultantes abordam as preocupações das partes interessadas do EAM e podem ser agrupadas em visualizações. As ADLs são frequentemente suportadas por ferramentas EAM para auxiliar na criação, uso e análise de seus modelos e visualizações
+- EAM(Enterprise architecture management) = é a prática de habilitar e impulsionar o valor de negócios usando a arquitetura corporativa. O EAM define a direção, a estratégia e a governança do planejamento da arquitetura corporativa - visão, missão,  , diretrizes, políticas, princípios, comunicações, monitoramento, controle e outras atividades que garantem o desenvolvimento e a implantação da arquitetura corporativa em apoio ao valor comercial
+
+- É comum utilizarmos ADLs (architecture description language) para descrever arquiteturalmente componentes de software, podendo ser encontrada em vários formatos, como UML (Unified Modeling Language), diagramas, variando de acordo com os tipo de notação adotada. Alguns exemplos de ADLs são: ABACUS, ADML (Architecture Description Markup Language), Wright, Unicon, Rapide, SSEP(software and systems engineering productivity), AO-ADL(Aspect Oriented Architecture Description Language), AADL(Architecture Analysis and Design Language)
+
+- Um software precisa ser projetado para falhas, devendo prever os riscos adicionados a cada etapa que o compõe. Durante a fase de resolução do problema, a arquitetura de um sistema reflete a forma e estilos de comunicação que determinado componente deve adotar. Arquitetura de software trata-se do primeiro passo em direção a resolução de um problema, antes de sua implementação, mostrando como um software deverá ser construído e como deverá comportar-se
+
+- Um padrão arquitetural descreve uma solução arquitetural para problemas recorrentes em sistemas de software que se apresentam em contextos específicos
+  - A solução arquitetural do padrão define as estruturas de software(componentes, serviços, módulos), responsabilidades e relações entre essas estruturas e formas que as estruturas colaboram para solucionar o problema
+- Um padrão arquitetural é um conjunto de decisões de projeto de software que definem a utilidade, tipos de elementos(componentes, serviços, módulos), tipos de relações(dependência, colaboração, controle), propriedades dos elementos(responsabilidades, funcionalidades) e restrições spbre como os elementos se relacionam(comunicação unidirecional, bidirecional)
+
+- Exemplos de padrões para estudar futuramente:
+  - Layers, Pipe-filter, pipes-and-filters, cliente-servidor, peer-to-peer, service-oriented architecture, publish-subscribe, Data Model, Shared-Data, Blackboard
+  
+### OBS: Nem sempre um único padrão será suficiente para formar sua arquitetura, e isso depende dos requisitos de qualidade importantes na arquitetura, bem como os RAs, e na maioria das vezes é necessário combinar vários padrões para atingir as qualidades desejadas
   
 
 

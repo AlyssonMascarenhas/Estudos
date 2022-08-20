@@ -7,6 +7,17 @@ Arquitetura vs Design de software:
   - Design:
     - Escopo local
 
-  - "Atividades relacionadas a arquitetura de software são sempre de design. Entretanto, nem todas atividades de design são sobre arquitetura. O objetivo primário da arquitetura de software é garantir que os atributos de qualidade, restrições de alto nível e os objetivos do negócio, sejam atendidos pelo sistema. Qualquer decisão de design que não tenha relação com este objetivo não é arquitetural. Todas as decisões de design para um componente que não sejam 'visíveis' fora dele, geralmente, também não são."]
+  - "Atividades relacionadas a arquitetura de software são sempre de design. Entretanto, nem todas atividades de design são sobre arquitetura. O objetivo primário da arquitetura de software é garantir que os atributos de qualidade, restrições de alto nível e os objetivos do negócio, sejam atendidos pelo sistema. Qualquer decisão de design que não tenha relação com este objetivo não é arquitetural. Todas as decisões de design para um componente que não sejam 'visíveis' fora dele, geralmente, também não são."
 
 ### Anotações pós aula ###
+
+- Relembrando, a arquitetura de software é o processo de converter características de software(flexibilidade, escalabilidade, viabilidade, reutilização, segurança, e os pilares) em uma solução estruturada que atenda às expectativas técnicas e de negócios. 
+- As características do software descrevem os requisitos e as expectativas de um software nos níveis operacional e técnico. Assim, quando um líder de produto diz que está competindo em um mercado de rápida mudança e deve adaptar seu modelo de negócios rapidamente. O software deve ser “extensível, modular e de manutenção adequada” se uma empresa lidar com solicitações urgentes que precisam ser concluídas com êxito em questão de tempo. Como arquiteto de software, observe que o desempenho e a baixa tolerância a falhas, escalabilidade e confiabilidade são suas principais características.
+
+- Design de software é responsável pelo design do nível de código, como o que cada módulo está fazendo, o escopo das classes e os objetivos das funções, etc.
+  - Ex: SOLID = Single responsability, open closed, liskov substitution, interface segregation e dependency inversion.
+    - S = Significa que cada classe deve ter um único objetivo, uma responsabilidade e um motivo para mudar
+    - O = Uma classe deve ser aberta para extensão, mas fechada para modificação(pode adicionar funcionalidade, mas nunca editar função atual
+    - L = Usar herança de uma maneira que não interrompa a lógica da aplicação. Ou seja, uma classe filha não deve replicar uma funcionalidade da classe pai de uma maneira que altere o comportamento da classe pai.
+    - I = Se uma classe pode implementar várias interfaces, se deve estruturar o código de forma que uma classe não seja obrigada a implementar uma função que não é importante para a mesma
+    - D = Não injeçar as classes. Se a classe Compra depende da classe Usuario, a classe Usuario deve ser instanciada fora da classe Compra.

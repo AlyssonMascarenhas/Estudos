@@ -16,3 +16,12 @@ Sustentabilidade no dia zero:
     - Logo, a solução precisa ser bem arquitetada
   
 ### Anotações pós aula ###
+
+- Sustentabilidade está relacionada à realização de atividades que buscam a preservam do meio ambiente.
+- Já quando se trata de desenvolvimento de um software, sustentabilidade está relacionada a capacidade 
+- do software evoluir dentro da organização(exister o máximo de tempo possível).
+- E pra isso, o software precisa ser bem arquitetado.
+
+- Como o desenvolvimento de software é caro, e enquanto mais tempo o mesmo se manter no ar, consegue gerar mais retorno para a empresa.
+- A sustentabilidade desse software deve começar no dia 0. Ou seja, cada desenvolvedor, arquiteto, PO, etc, pensarem de forma intencional
+- em como fazer com que esse software fique no ar por mais tempo. E pra isso o mesmo precisa ter uma base bem feita.

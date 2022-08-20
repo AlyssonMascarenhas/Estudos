@@ -21,5 +21,17 @@ Arquitetura de Software:
 
 ### Anotações pós aula ###
 
+- Quando falamos em arquitetura de software, se referimos a todos os processos de desenvolvimento de uma solução,
+- desde as metodologias até o formato em que o software será desenvolvido. 
 
-  
+- A engenharia de software compreende que existe um ciclo de desenvolvimento para a criação de um software.
+- E a arquitetura de software contribui com a realização desse ciclo.
+
+- Uma definição de Arquitetura de software: 
+  - ISO/ IEC/ IEEE 420100: "A relação de um sistema e seus componentes, suas relações, seu ambiente, bem como os princípios que guiam seu design e evolução".
+- Melvin Conway(cientista da computação) diz que "organizações que desenvolvem sistemas de software tendem a produzir sistemas que são cópias das estruturas de comunicação dessas empresas"
+  - Ex: "uma companhia decide implementar um sistema de software. Nessa corporação, há um desenvolvedor Backend, um desenvolvedor Frontend e um DBA. 
+    - Provavelmente, quando essa aplicação for desenvolvida, teremos uma solução Backend que vai se comunicar com o banco de dados e certamente, também uma SPA (Single Page Application) Frontend para se comunicar com Backend.
+    - Porém, se na organização houver somente um profissional Backend e um DBA, dependendo da situação, o frontend da aplicação será uma parte do projeto principal rodando em conjunto com backend. 
+    - Então, resumidamente, a arquitetura do software vai ser desenvolvida de acordo com os times disponíveis para o projeto." 
+

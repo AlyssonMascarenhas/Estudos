@@ -20,3 +20,8 @@ Requisitos arquiteturais(RAs):
     - Verificar tipos de dispositivos
 
 ### Anotações pós aula ###
+
+- A formar mais comum de levantar(fazer/organizar) os RAs são através de planilhas.
+- O Arquiteto de software pode se reunir com experts de domínio e com o executivo pra fazer alguns questionamentos, que irão auxiliar nas tomadas de decisões das RAs.
+- O Arquiteto de software deve adeguar a solução para a melhor arquitetura(mais uma vez, isso mostra a importância de conhecer N modelos arquiteturais e saber utiliza-los).
+- Quanto mais claro é a aplicação a ser desenvolvida(RAs que terão que ser utilizados) = mais clareza teremos no processo de desenvolvimento.

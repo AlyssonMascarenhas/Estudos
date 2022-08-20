@@ -10,7 +10,7 @@ Por que aprender arquitetura de software?
   - Pensar a longo prazo no projeto e sua sustentabilidade
     - Prazo, pressão lhe "obrigam" a resolver o problema a curto prazo. Mas com a arquitetura de software, pelo menos você consegue modelar um software, que quando necessário, ele vai ser mais fácil de ser mantido/refatorado.
 
-  - Tomar decisões de forma mais fria e calculada evitando assim ser influienciado por "hypes" de mercado
+  - Tomar decisões de forma mais fria e calculada evitando assim ser influenciado por "hypes" de mercado
     - "Hoje sou front em React, amanhã em Angular, depois vou migrar pro Flutter", isso pode prejudicar o produto da empresa.
 
   - Mergulho em padrões de projeto e de desenvolvimento e suas boas práticas
@@ -23,6 +23,22 @@ Por que aprender arquitetura de software?
     - As opções de trabalho(modelos arquiteturais, etc) irão servir de ferramentas para solucionar problemas
   
 ### Anotações pós aula ###
+
+- Conforme um software é desenvolvido, seu tamanho e complexidade crescem, aumentando também o problema de projeto e excedendo as estruturas de dados e algoritmos. Logo, projetar uma arquitetura que facilite a compreensão desses componentes se torna um caminho mais do que necessário
+- Entre os aspectos que precisam ser observados nesse processo, estão incluídas questões como os protocolos de comunicação, atribuição de funcionalidades a determinadas partes e a estrutura de controle
+- Um exemplo claro pode ser encontrado nos sistemas web, nos quais uma solução precisa contar com diversas camadas para distinguir componentes client-side e server-side, além de possíveis estruturas intermediárias que possam existir, conforme necessário
+- Essa estruturação, apesar de parecer trabalhosa para profissionais não habituados a ela, visa facilitar a organização dos componentes e melhorar a flexibilidade e portabilidade do sistema, gerando muito mais facilidade de manutenção
+- Um código bem estruturado e organizado facilita a criação de interfaces bem definidas com componentes e funcionalidades já testados, permitindo o reúso de código e melhorando a assistência, já que possíveis alterações tendem a ficar restritas àquele trecho de código
+
+- Beneficios de um software arquitetado:
+  - Performance:
+    - Sistemas mal-estruturados tendem a se tornar um grande problema quando o assunto é desempenho. Caso haja uma demanda imprevista por mais capacidade, ele se tornará uma grande dor de cabeça, tanto por conta da manutenção muito mais trabalhosa, quanto pelo atraso que isso causará aos processos da empresa
+    - Enquanto isso, contar com uma arquitetura bem definida permitirá que as demandas sejam atendidas da forma mais prática possível, tendo total capacidade de expandir e lidar com um volume de dados maior
+  - Escalabilidade:
+    - A escalabilidade é o principal fator considerado pelas empresas que querem crescer. Entretanto, contar com um software mal-arquitetado pode ser um grande problema, principalmente por conta da alta dependência dos recursos digitais hoje
+    - Assim, é essencial contar com uma arquitetura que permita que o sistema seja escalado rapidamente, facilitando processos e evitando atrasos em cronogramas e bugs posteriores
+  - Flexibilidade:
+    - Outra vantagem da arquitetura de software é a flexibilidade que ela traz ao sistema. Esse é um aspecto muito importante, visto que toda empresa tem suas particularidades e precisa de sistemas que se adaptem às suas necessidades
 
 
   
